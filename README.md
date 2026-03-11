@@ -147,6 +147,17 @@ rm -rf /tmp/ffmpeg
 
 ---
 
+## Support the Developers
+
+MakeMKV is the work of a small, dedicated team. If you find it useful, please consider purchasing a license — it directly supports continued development of the software.
+
+> 🔑 **Buy a license:** [https://www.makemkv.com/buy/](https://www.makemkv.com/buy/)  
+> 🧪 **Free beta key:** A time-limited beta registration key is periodically posted on the [MakeMKV forum](https://forum.makemkv.com/forum/viewtopic.php?t=1053) for those who want to try before buying.
+
+Buying a license is the best way to keep this project alive.
+
+---
+
 ## License
 
 This repository contains documentation mirroring the official MakeMKV Linux forum post only.
