@@ -1,4 +1,4 @@
-# MakeMKV 1.18.3 for Linux
+# MakeMKV 1.18.4 for Linux
 
 > Unofficial mirror of the official build and installation instructions posted by **mike admin** on the [MakeMKV Linux forum](https://forum.makemkv.com/forum/viewtopic.php?f=3&t=224).  
 > For the latest version information, see the [MakeMKV changelog thread](https://www.makemkv.com/forum2/viewtopic.php?f=5&t=1054).
@@ -32,8 +32,8 @@ Two packages must be downloaded and built:
 
 | Package | Type |
 |---|---|
-| `makemkv-oss-1.18.3.tar.gz` | Open-source component (source) |
-| `makemkv-bin-1.18.3.tar.gz` | Proprietary binary component |
+| `makemkv-oss-1.18.4.tar.gz` | Open-source component (source) |
+| `makemkv-bin-1.18.4.tar.gz` | Proprietary binary component |
 
 The application installs to **`/usr/bin/makemkv`**.
 
@@ -44,8 +44,8 @@ The application installs to **`/usr/bin/makemkv`**.
 Download both the binary and source packages directly from the official MakeMKV download page:
 
 ```
-https://www.makemkv.com/download/makemkv-oss-1.18.3.tar.gz
-https://www.makemkv.com/download/makemkv-bin-1.18.3.tar.gz
+https://www.makemkv.com/download/makemkv-oss-1.18.4.tar.gz
+https://www.makemkv.com/download/makemkv-bin-1.18.4.tar.gz
 ```
 
 Unpack both archives before proceeding.
